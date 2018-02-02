@@ -1,0 +1,59 @@
+
+
+.game__controls {
+  border: solid 2px;
+  position: absolute;
+
+  top:13px;
+  left: 10px;
+  right: 10px;
+  margin: auto;
+  width: 300px;
+  height: 755px;
+}
+
+.buttonInputWord {
+    padding: 15px 32px;
+    margin:auto;
+    margin-top: 20px;
+    display:block;
+    border: solid 1px;
+    font-size: 19px;
+    background-color: white; 
+    color: #4CAF50;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+  
+  }
+  
+  .buttonInputWord:hover {
+    padding: 15px 32px;
+    margin:auto;
+    margin-top: 20px;
+    display:block;
+    border: none;
+    font-size: 19px;
+      background-color: #4CAF50; 
+      color: white;
+  }
+
+.inputWord {
+    text-align: center;
+    padding: 15px 32px;
+    color: white;
+    background-color: #49DD8E;
+    border: none;
+    font-size: 19px;
+}
+
+
+
+.timer{
+    margin: 0 auto;
+    border: solid 2px;
+    background-color: rgba(255, 0, 0, 0.514);
+    font-size: 25px;
+    width: 297px;
+    height: 50px;
+    display:block;
+}

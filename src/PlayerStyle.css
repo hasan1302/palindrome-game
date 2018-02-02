@@ -1,0 +1,47 @@
+.player__one__words {
+    width: 480px;
+    height: 688px;
+    border: solid 2px;
+    display: inline-block;
+    background-color: rgba(60, 255, 0, 0.719);
+    margin-left: -2px;
+
+    
+
+}
+
+.player__two__words {
+    width: 480px;
+    height: 688px;
+    border: solid 2px;
+    margin-top: 0px;
+    margin-left: 307px;
+    display: inline-block;
+    background-color: rgba(255, 0, 0, 0.719);
+}
+
+.player__one{
+    background-color: rgba(21, 255, 0, 0.445);
+    margin: auto;
+    border: solid 2px;
+    margin: 13px;
+    color: #333;
+    display: inline-block;
+    font: 100pt/20pt monospace;
+
+    max-width:480px; 
+    max-height: 80px;
+}
+
+.player__two{
+    background-color: rgba(21, 255, 0, 0.445);
+    margin: auto;
+    border: solid 2px;
+    margin: 13px;
+    color: #333;
+    display: inline-block;
+    font: 100pt/20pt monospace;
+    float: right;
+    max-width:480px; 
+    max-height: 80px;
+}

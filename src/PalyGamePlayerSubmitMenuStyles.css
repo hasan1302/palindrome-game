@@ -1,0 +1,81 @@
+.player__submit__menu {
+    width: 500px;
+    height: 250px;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.submit__button {
+    padding: 15px 32px;
+    margin:auto;
+    margin-top: 20px;
+    display:block;
+    border: solid 1px;
+    font-size: 19px;
+    background-color: white; 
+    color: #4CAF50;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+  
+  }
+  
+  .submit__button:hover {
+    padding: 15px 32px;
+    margin:auto;
+    margin-top: 20px;
+    display:block;
+    border: none;
+    font-size: 19px;
+      background-color: #4CAF50; 
+      color: white;
+  }
+
+.input__name {
+    text-align: center;
+    padding: 15px 32px;
+    margin-left: 110px;
+    color: white;
+    background-color: #49DD8E;
+    border: none;
+    font-size: 19px;
+}
+
+
+.header span{
+    padding: 10px;
+    margin: 13px;
+    color: #333;
+    display: inline-block;
+    font: 8pt/20pt monospace;
+    font-size: 32px;
+    text-align: center;
+   }
+
+   .header span:first-child{
+    background-color: #58B3FF
+  }
+
+  .header span:nth-child(2){
+    background-color: #FF605F
+  }
+
+  .header span:nth-child(3){
+    background-color: #FFD52E
+  }
+  .header span:nth-child(4){
+    background-color: #49DD8E
+  }
+  .header span:nth-child(5){
+    background-color: #AE99FF
+  }
+  .header span:nth-child(6){
+    background-color: #FF605F
+  }
+
+
+
+

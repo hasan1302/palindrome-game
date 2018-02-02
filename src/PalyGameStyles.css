@@ -1,0 +1,51 @@
+
+.game__menu {
+    width: 1300px;
+    height: 800px;
+    background-color: #ffffff52;
+    border: solid 2px;
+    position: absolute;
+
+    margin: auto;
+}
+
+
+.header span{
+    padding: 100px;
+    margin: 13px;
+    color: #333;
+    display: inline-block;
+    font: 8pt/20pt monospace;
+    font-size: 32px;
+    text-align: center;
+   }
+
+   .header span:first-child{
+    background-color: #58B3FF
+  }
+
+  .header span:nth-child(2){
+    background-color: #FF605F
+  }
+
+  .header span:nth-child(3){
+    background-color: #FFD52E
+  }
+  .header span:nth-child(4){
+    background-color: #49DD8E
+  }
+  .header span:nth-child(5){
+    background-color: #AE99FF
+  }
+  .header span:nth-child(6){
+    background-color: #FF605F
+  }
+
+  .header span:nth-child(7){
+    background-color: rgb(95, 146, 255)
+  }
+
+  .header span:nth-child(8){
+    background-color: rgb(95, 255, 207)
+  }
+
